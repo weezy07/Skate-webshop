@@ -1,0 +1,93 @@
+.display-3{
+    font-size: 4.5px rem;
+    font-weight: 200;
+    line-height: 1;
+}
+.jumbotron{
+    text-align: center;
+}
+.col-md-6{
+    max-width: 42%;
+}
+.carousel-caption{
+    bottom: -14px;
+    right: 14%;
+}
+.sectionLight{
+    background-color: #eceeef;
+    padding: 2rem;
+}
+.sectionDark{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+.col-md-6{
+    max-width: 52%;
+}
+.coolStuffWrapper{
+    margin-top: 20px;
+}
+button.coolStuffBtn{
+    background-color: crimson;
+    color: floralwhite;
+    display: block;
+    margin: auto;
+}
+h5.modal-title{
+    margin: auto;
+    padding-left: 4.2rem;
+}
+
+.form-control{
+    margin: 1px;
+    font-family: cursive;
+    width: 123%;
+}
+.modal-content{
+    background-color: indianred;
+}
+.modal-header{
+    padding: 0.8rem;
+}
+.form-group{
+    font-family: cursive;
+}
+.modal-footer{
+    padding: 0.7rem;
+}
+.modalFormWrapper{
+    padding: 0.6rem;
+    padding-top: 1.8rem;
+}
+.imgCenter{
+    display: block;
+    margin: auto;
+}
+.btnCenter{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 79.6%;
+}
+.footerImg{
+    padding: 20px; 
+}
+.fa{
+    margin: 10px;
+}
+.fa-facebook-square{
+    color: #3b5998;
+}
+.fa-google-plus-square{
+    color: #db4437;
+}
+.fa-instagram{
+    color: aquamarine;
+}
+.socialWrapper{
+    margin: auto;
+    margin-top: 17px;
+}
+
+
